@@ -9,3 +9,104 @@ Unable to read VR Path Registry from C:\Users\deepa\AppData\Local\openvr\openvrp
 Unable to read VR Path Registry from C:\Users\deepa\AppData\Local\openvr\openvrpaths.vrpath
 1521050318742	Marionette	INFO	Listening on port 63833
 1521050319089	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 13404, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAIL[Parent 22268, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 22268, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21772, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21772, Chrome_ChildTJavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+JavaScript error: jar:file:///C:/Program%20Files/Mozi[Parent 19008, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1016, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1016, ChroJavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ warning: https://www.walmart.com/browse/fiction/science-fiction-fantasy/3920_582105_9435716_586163?page=1, line 23: unreachable code after return statement
+JavaScript warning: https://www.walmart.com/browse/fiction/science-fiction-fantasy/3920_582105_9435716_586163?page=1, line 23: unreachable code after return statement
+[Child 22872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22872, Chrome_ChJavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+t error: https://js-sec.indexww.com/ht/pk-walmart-desktop.js, line 2: TypeError: e is null
+JavaScript error: https://js-sec.indexww.com/ht/pk-walmart-desktop.js, line 2: TypeError: e is null
+JavaScript error: https://js-sec.indexww.com/ht/pk-walmart-desktop.js, line 2: TypeError: e is null
+JavaScript error: https://js-sec.indexww.com/ht/pk-walmart-desktop.js, line 2: TypeError: e is null
+[Child 13420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+[GPU 17324, Chrome_C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+uild/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12000, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12000, ChrJavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+[GPU 3068, Chrome_ChildThread] WAR
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+3481&dur=0&adw=300&adh=250&uebu=https%3A%2F%2Fx.vindicosuite.com%2Fevent%2F%3Fe%3D%24SUGR_CUSTOM_EVENT_ID%24%3Bl%3D553481%3Bb%3D4851236%3Bc%3D1069519%3Bsmuid%3D%3Bmsd%3D%3Ba%3D287625%3Bta%3D1521051862%3Btk%3D30014%3Bcr%3D3030193892%3Bad%3DCInkIRDr4Q0YtjMgASgEMLwhOJnZAUDbihRI4Y0ZUM-jQVikjKgCYInHEWjyxilwAXgBiAEAkAEAmAEAogETMTQ0NjIwMTI5OTEyNTYyNzQwNLIBCENSRUFUSVZFuAEBwAEAyAEA0AEA2AEA6AG5iYauoiw%3Bsapc%3D1%3Bxid%3D1446201299125627404%3Bdcr%3D1%3Beav%3D%24SUGR_EVENT_ARGUMENT%24%3B%24SUGR_EVENT_PARAM%24%3Beov%3D%24SUGR_EVENT_OBJ%24%3Bmpws%3D%24SUGR_AD_WIDTH%24%3Bmphs%3D%24SUGR_AD_HEIGHT%24%3Bdsd%3D%24SUGR_DETERMINED_DOMAIN%24%3Bsnvs%3D%24SNAP_IN_VIEW%24%3Bsls%3D%24APP_SUGR_LOCATION%24%3Bsvn%3D%24APP_SUGR_VERSION%24%3Bals%3D%24APP_ADT_LOCATION%24%3Bavn%3D%24APP_ADT_VERSION%24%3Bspr%3D%24SUGR_QUERY_PARAMETERS%24&rn=1521051862, line 4: NS_ERROR_FAILURE: 
+JavaScript error: https://www.walmart.com/browse/fiction/science-fiction-fantasy/3920_582105_9435716_586163?page=20, line 1: NS_ERROR_FAILURE: 
+[Child 24380, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 23648, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 23648, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1521053807839	geckodriver::marionette	ERROR	Failed to stop browser process
+1521053850424	geckodriver	INFO	geckodriver 0.20.0
+1521053850433	geckodriver	INFO	Listening on 127.0.0.1:59055
+1521053853511	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\deepa\\AppData\\Local\\Temp\\rust_mozprofile.NuWrSbRCWs3x"
+Unable to read VR Path Registry from C:\Users\deepa\AppData\Local\openvr\openvrpaths.vrpath
+1521053854482	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\deepa\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\deepa\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\deepa\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\deepa\AppData\Local\openvr\openvrpaths.vrpath
+1521053856127	Marionette	INFO	Listening on port 59063
+1521053856738	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.walmart.com/browse/children-s-kids-books/children-s-comic-books-graphic-novels/mraid.js, line 1: SyntaxError: expected expression, got '<'
+JavaScript error: https://www.walmart.com/browse/children-s-kids-books/children-s-comic-books-graphic-novels/mraid.js, line 1: SyntaxError: expected expression, got '<'
+[Parent 20108, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22840, Chrome[Child 14716, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1796, CJavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+JavaScript error: jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/nsSearchService.js, line 798: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICryptoHash.init]
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
