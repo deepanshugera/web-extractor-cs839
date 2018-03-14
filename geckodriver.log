@@ -1,0 +1,11 @@
+1521050312105	geckodriver	INFO	geckodriver 0.20.0
+1521050312107	geckodriver	INFO	Listening on 127.0.0.1:63823
+1521050315192	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\deepa\\AppData\\Local\\Temp\\rust_mozprofile.yKcvvb7kBJLO"
+Unable to read VR Path Registry from C:\Users\deepa\AppData\Local\openvr\openvrpaths.vrpath
+1521050316888	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\deepa\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\deepa\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\deepa\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\deepa\AppData\Local\openvr\openvrpaths.vrpath
+1521050318742	Marionette	INFO	Listening on port 63833
+1521050319089	Marionette	WARN	TLS certificate errors will be ignored for this session
