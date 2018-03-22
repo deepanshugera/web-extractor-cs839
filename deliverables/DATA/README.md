@@ -10,7 +10,8 @@ The table schema consist of
 7. Publisher
 8. Language
 9. Dimension : Dimension of the book in length x breadth x height in inches
-10. Rating : User rating for the book out of 5 
+10. Weight
+11. Rating : User rating for the book out of 5 
 
 Both amazon_books.csv and walmart_books.csv consists of 3000 tuples each.
 
