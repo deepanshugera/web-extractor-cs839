@@ -13,5 +13,5 @@ The table schema consist of
 10. Weight
 11. Rating : User rating for the book out of 5 
 
-Both amazon_books.csv and walmart_books.csv consists of over 3000 tuples each.
+amazon_books.csv consists of 3212 tuples and walmart_books.csv consists of 3114 tuples.
 
